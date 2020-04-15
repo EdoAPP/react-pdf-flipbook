@@ -1,11 +1,11 @@
 {
   "name": "react-pdf-flipbook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/edoapp/react-pdf-flipbook"
   },
   "files": [
     "dist",
