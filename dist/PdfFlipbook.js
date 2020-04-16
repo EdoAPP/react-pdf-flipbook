@@ -13,7 +13,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var PdfFlipbook = function PdfFlipbook() {
   return /*#__PURE__*/_react.default.createElement(_reactIframe.default, {
-    src: "../pdf-viewer/index.html"
+    src: "./pdf-viewer/index.html"
   });
 };
 
